@@ -10,7 +10,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/common/hexutil"
 
-	"github.com/zano-mining/open-zano-pool/rpc"
+	"github.com/letshash/open-zano-pool/rpc"
 	"github.com/zano-mining/open-zano-pool/storage"
 	"github.com/zano-mining/open-zano-pool/util"
 )
