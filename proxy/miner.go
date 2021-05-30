@@ -9,7 +9,7 @@ import (
 
 	"github.com/ethereum/ethash"
 	"github.com/ethereum/go-ethereum/common"
-  "github.com/zano-mining/open-zano-pool/util"
+  "github.com/letshash/open-zano-pool/util"
   
 )
 
