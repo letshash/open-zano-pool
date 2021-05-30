@@ -10,7 +10,7 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 
 	"github.com/letshash/open-zano-pool/rpc"
-  "github.com/letshash/open-zano-pool/util"
+        "github.com/letshash/open-zano-pool/util"
 )
 
 const maxBacklog = 3
