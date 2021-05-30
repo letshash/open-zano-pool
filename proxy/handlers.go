@@ -5,7 +5,7 @@ import (
 	"regexp"
 
 	"github.com/letshash/open-zano-pool/rpc"
-	"github.com/zano-mining/open-zano-pool/util"
+	"github.com/letshash/open-zano-pool/util"
 )
 
 // Allow only lowercase hexadecimal with 0x prefix
