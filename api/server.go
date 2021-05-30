@@ -11,8 +11,8 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/zano-mining/open-zano-pool/storage"
-	"github.com/zano-mining/open-zano-pool/util"
+	"github.com/letshash/open-zano-pool/storage"
+	"github.com/letshash/open-zano-pool/util"
 )
 
 type ApiConfig struct {
