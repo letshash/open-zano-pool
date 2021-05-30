@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/letshash/open-zano-pool/rpc"
-	"github.com/zano-mining/open-zano-pool/storage"
+	"github.com/letshash/open-zano-pool/storage"
 )
 
 func TestMain(m *testing.M) {
