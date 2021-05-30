@@ -4,7 +4,7 @@ import (
 	"log"
 	"regexp"
 
-	"github.com/zano-mining/open-zano-pool/rpc"
+	"github.com/letshash/open-zano-pool/rpc"
 	"github.com/zano-mining/open-zano-pool/util"
 )
 
