@@ -12,7 +12,7 @@ import (
 	"sync"
 
 	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/zano-mining/open-zano-pool/util"
+	"github.com/letshash/open-zano-pool/util"
 )
 
 type RPCClient struct {
@@ -159,7 +159,7 @@ func NewRPCClient(name, url, timeout string) *RPCClient {
 
 func (r *RPCClient) GetWork(miner_address string) ([]string, error) {
   var wparams WorkRequestParams
-  wparams.ExtraText = "open-zano-pool"
+  wparams.ExtraText = "letshash.it"
   wparams.WalletAddress = miner_address
   wparams.StakeAddress = miner_address
   wparams.PosBlock = false
